@@ -22,7 +22,7 @@ object Functions extends App {
 
   // with a recursive function we HAVE to type it - the compiler cannot figure out the return type on its own
 
-  println("hello", 3)
+  println(aRepeatedFunction("hello", 3))
   // in Scala we use recursive functions to function as loops!
   // woah
 
