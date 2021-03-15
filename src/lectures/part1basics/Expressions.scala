@@ -37,4 +37,6 @@ object Expressions extends App {
   }
 
   // value of the block is the value of the last expression
+
+  println("Scala stille works after moving project")
 }
